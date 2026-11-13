@@ -76,13 +76,13 @@ b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"
 - **HKU Presidential PhD Scholarship (HKU-PS)** - Graduate School, HKU (*2026/27*)
     > **The most prestigious scholarship awarded to selected outstanding full-time PhD students**. Awarded on Academic Performance, Research Potential, Interpersonal skills, and Leadership abilities.
 - **Bronze Award for Outstanding Academic Performance** - Department of Computer Science and Engineering, CUHK (*2024/25*)
-    > Awarded for Outstanding Academic Performance, 10000 HKD.
+    > Awarded for Outstanding Academic Performance, 10000 HKD, Top 14/444 Students in Computer Science Program.
 - **Dean's List** - Faculty of Engineering, CUHK (*2024/25, 2022/23*)
 - **Head's List** - United College, CUHK (*2024/25, 2023/24*)
 - **1973 Ming De Xin Min Alumni Academic Prize** - United College, CUHK (*2024/25*)
     > Awarded for Outstanding Academic Performance, 2500 HKD.
 - **Gold Award for Outstanding Academic Performance** - Department of Computer Science and Engineering, CUHK (*2023/24*)
-    > Awarded for Outstanding Academic Performance, 30000 HKD.
+    > Awarded for Outstanding Academic Performance, 30000 HKD, Top 2/444 Students in Computer Science Program.
 - **Wu Chung Scholarship** - United College, CUHK (*2023/24*)
     > Awarded for Outstanding Academic Performance, 42100 HKD.
 - **ELITE Student Scholarship** - Faculty of Engineering, CUHK (*2022/23*)
